@@ -1,9 +1,27 @@
-# Challenge Project: Responsive Club Website
+# Company Home Page
 
-## Overview
+**Company Home Page** is a website for The Tuning Shop LTD, providing information about the company's services, team, gallery, and contact details. It features a modern design with easy navigation, showcasing the company's expertise in tuning accessories and professional services.
 
-​This project is slightly different than others you have encountered thus far on Codecademy. Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project you’ll be building. There are many possible ways to correctly fulfill all of these requirements, and you should expect to use the Internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.​
+## Project Overview
 
-## Project Goals
+This project presents a comprehensive and engaging homepage for The Tuning Shop LTD, highlighting their services, team, portfolio, and contact information.
 
-In this project, you’ll be building your own club group page that will dynamically respond as you adjust the size of your screen!​
+## Features
+
+- **Header Section:**
+  - Navigation bar with links to Services, Portfolio, Team, and Contact sections.
+  - Company logo displayed prominently.
+- **Banner Section:**
+  - Main heading and a brief description of the company's offerings.
+- **Services Section:**
+  - Detailed information about the various services provided, including sound system, car wrapping, general service, and tuning.
+  - Icons representing each service.
+- **Gallery Section:**
+  - A collection of images showcasing the company's work and products.
+- **Team Section:**
+  - Information about the key team members, including their roles and pictures.
+- **Contact Section:**
+  - A contact form for scheduling appointments.
+  - Additional details about the company, including an embedded Google map for location.
+- **Footer Section:**
+  - Company contact information and social media links.
